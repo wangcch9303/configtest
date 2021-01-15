@@ -11,4 +11,4 @@ feign:
   hystrix:
     enabled: true
 wangcan:
-  name: sssss
+  name: sssss1111
